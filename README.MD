@@ -48,18 +48,6 @@ Saya adalah seorang **QA Automation Engineer** yang berfokus pada pembuatan fram
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egarifs&show_icons=true&theme=radical&hide_border=true" alt="Ega's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egarifs&theme=radical&hide_border=true" alt="Ega's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egarifs&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
-<p align="center"><i>"Quality is not an act, it is a habit." – Aristotle</i></p>
+<p align="center"><i>"Quality is everyone’s responsibility."</i></p>
