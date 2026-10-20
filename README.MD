@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 Saya adalah seorang **QA Automation Engineer** yang berfokus pada pembuatan framework testing yang *scalable* dan *maintainable*. Saya percaya bahwa kualitas perangkat lunak bukan hanya soal menemukan *bug*, tetapi bagaimana proses otomasi dapat memberikan **impact** yang signifikan bagi kecepatan rilis dan pengalaman pengguna.
 
-- 🌱 **Willing to learn terus & upgrade:** Saat ini saya sedang memperdalam *API Testing* dan integrasi CI/CD pipeline untuk otomasi.
-- 🎯 **Impact-Driven:** Mengoptimalkan *testing time* & *test coverage*, sekaligus membantu membangun aplikasi untuk kebutuhan bisnis dengan *leverage* bantuan AI (AI-Assisted Development).
+- 🌱 **Willing to learn terus & upgrade:** Mendalami pemanfaatan AI untuk efisiensi alur kerja yang berdampak.
+- 🎯 **Impact-Driven:** Mengoptimalkan *testing* (time & coverage) serta membangun aplikasi bisnis dengan akselerasi AI.
 - 💬 **Ask me about:** Playwright MCP, CPD Pi.dev, Software Quality Assurance, dan Automation Testing.
 - 📫 **How to reach me:** [LinkedIn](linkedin.com/in/egarifs) | [Email](mailto:egarifs25@gmail.com)
 
